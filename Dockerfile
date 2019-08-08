@@ -1,4 +1,4 @@
-FORM zendesk/maxwell
+FROM zendesk/maxwell
 
 COPY wait-for-it.sh /app
 
